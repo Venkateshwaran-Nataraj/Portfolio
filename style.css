@@ -1,0 +1,191 @@
+body{
+  background-color: whitesmoke;
+  background-image: url(lbg.jpg);
+    background-repeat: no-repeat;
+ background-size: cover;
+    background-attachment: scroll;
+    background-position: center;
+    
+}
+
+
+#container{
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+}
+#name{
+    text-align: center ; 
+    font-size: 50px; 
+   
+    background: radial-gradient(circle at 52.1% -29.6%, rgba(144, 17, 106, 0.829) 0%, rgba(50, 0, 131, 0.76) 100.2%);
+  
+    border: 2px solid #03030305;
+    box-sizing: content-box;
+  
+    font-family: "Jaini Purva", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    border-radius: 49px 10px;
+      
+    color: #e8f9e9;
+  
+}
+p,a,ul{
+    font-size: larger;
+    text-decoration: none;
+    color: black;
+    
+}
+header{
+    
+   position: sticky;
+   top: 5px;
+   font-size: 25px;
+   
+  
+  
+
+  
+}
+#ul{
+    font-family: "Jaini Purva", system-ui;
+    font-weight: 400;
+    font-style: normal;
+ 
+   
+    justify-content: center; 
+    
+    padding-left: 48%;
+    background: linear-gradient(243.3deg, rgba(247, 164, 217, 0.836) 35.7%, rgba(115, 102, 252, 0.733) 121.6%);
+    
+    
+  }
+  #skills{
+   
+    
+    font-size: x-large;
+    
+    
+
+    
+   
+   
+}
+table{
+  
+    font-size: larger;
+    background-color: #c8d9eb;
+    background-image: url(acbg.jpg);
+    
+    background-repeat: no-repeat;
+   background-size: cover;
+    background-attachment: scroll;
+    background-position: center;
+   
+}
+td{
+   
+  text-align: center;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  /* font-weight: 549; */
+  font-style: oblique;
+}
+#academics{
+  
+    justify-content: center;
+    font-size: x-large;
+    padding-left: 15%;
+   
+    
+
+    
+}
+#img:hover{
+    transform: scale(1.05);
+}
+
+
+
+.color{
+    background: linear-gradient(to right, #0acdfeb7 0%, #495bffad 100%);
+  
+    border-radius: 30px;
+    border: 1px solid #0b0c0c;
+    border-width: 2px;
+    font-weight: bolder;
+
+   
+  
+    height: 30px;
+}
+.color:hover{
+   
+    transform: scale(1.05);
+
+}
+#internships{
+   
+    justify-content: center;
+    font-size: x-large;
+    
+    
+}
+#project{
+
+    justify-content: center;
+          
+    font-size: larger;
+}
+#contact{
+   
+    display: flex;
+   
+    font-size: larger;
+   
+    
+
+    
+}
+#c1,#c2{
+    padding-top: 10%;
+    justify-content: center;
+    padding-left: 10%;
+}
+#c2{
+    padding-left: 20%;
+    justify-content: center;
+}
+.p:hover{
+   
+    transform: scale(1.1);
+    
+
+}
+.p{
+    width:100px;
+    
+}
+
+.im{
+    height: 100%;
+
+}
+#pro{
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    padding-right: 20%;
+
+   
+    
+}
+footer{
+    background: radial-gradient(circle at 50.3% 44.5%, rgb(116, 147, 179) 0%, rgb(62, 83, 104) 100.2%);
+
+    
+}
+
+    
+
+
